@@ -1,6 +1,6 @@
 import telegram.ext
 import telebot
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler
+from telegram.ext import MessageHandler, Filters, ConversationHandler
 
 Token = "5723169972:AAG3Nq6JTSGuSTvtfgtY4UmUduktOCJJvVM"
 
